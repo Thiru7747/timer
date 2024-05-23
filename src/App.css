@@ -13,11 +13,23 @@
 .current-time{
     color: #FF204E;
     font-size: 6rem;
-    margin: 20px;
+    margin: 25px;
     font-family: "clockicons",sans-serif;
 }
 
 .current-date {
     color: #FF204E;
     font-size: 3rem;
+}
+
+.btn-alarm{
+  margin: 40px;
+  background-color: #FF204E;
+  padding: 10px 20px;
+  color: #070F2B;
+  outline: none;
+  border: none;
+  font-size: 1.5rem;
+  border-radius: 10px;
+  cursor: pointer;
 }

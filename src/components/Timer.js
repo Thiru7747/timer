@@ -32,6 +32,7 @@ export default function Timer() {
             <div className='container'>
                 <h1 className='current-time'>{formattedTime}</h1>
                 <h1 className='current-date'>{formattedDate}</h1>
+                <button className='btn-alarm'>Set Alarm</button>
             </div>
         </>
     );
